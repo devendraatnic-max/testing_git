@@ -1,0 +1,43 @@
+Go to folder and run CMD
+
+C:\Users\GIS\Desktop\Doc\Sunday\Git>git init   // use commod -- git init
+
+C:\Users\GIS\Desktop\Doc\Sunday\Git>git status // git status    by default master
+
+C:\Users\GIS\Desktop\Doc\Sunday\Git>git add "learn test.txt"  // for single file ..
+
+C:\Users\GIS\Desktop\Doc\Sunday\Git>git add .  // for All file ..
+
+C:\Users\GIS\Desktop\Doc\Sunday\Git>git config user.name "AmdroidSuraj"
+
+C:\Users\GIS\Desktop\Doc\Sunday\Git>git config user.email "daysuraj643@gmail.com"
+
+C:\Users\GIS\Desktop\Doc\Sunday\Git>git config user.name   
+
+C:\Users\GIS\Desktop\Doc\Sunday\Git>git commit -m "new file"
+
+C:\Users\GIS\Desktop\Doc\Sunday\Git>git status
+
+C:\Users\GIS\Desktop\Doc\Sunday\Git>git remote  add origin https://github.com/surajday/testing_git.git
+
+C:\Users\GIS\Desktop\Doc\Sunday\Git>git remote -v
+
+C:\Users\GIS\Desktop\Doc\Sunday\Git>git push origin master
+
+C:\Users\GIS\Desktop\Doc\Sunday\Git>git branch local
+
+C:\Users\GIS\Desktop\Doc\Sunday\Git>git branch 
+
+C:\Users\GIS\Desktop\Doc\Sunday\Git>git checkout local
+
+C:\Users\GIS\Desktop\Doc\Sunday\Git>git pull origin master
+
+////stash in git
+////Fork repositories
+
+git stash = Pause your current work.
+git checkout <branch> = Switch to another branch.
+git stash pop = Resume the paused work.
+
+
+
